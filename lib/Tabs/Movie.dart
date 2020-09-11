@@ -5,12 +5,12 @@ import '../Models/ComicSoonTopSimpleList.dart';
 import '../Models/ComicSoonfullList.dart';
 
 
-class ComicSoonTab extends StatefulWidget {
+class Movie extends StatefulWidget {
   @override
   _ComicSoonTabState createState() => _ComicSoonTabState();
 }
 
-class _ComicSoonTabState extends State<ComicSoonTab> {
+class _ComicSoonTabState extends State<Movie> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -30,7 +30,7 @@ class _ComicSoonTabState extends State<ComicSoonTab> {
       body: Column(
         children: <Widget>[
           Container(
-            height: 185,
+            height: 175,
             child: ListView.builder(
                 itemCount: 2,
                 itemBuilder: (context, index) {

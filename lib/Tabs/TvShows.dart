@@ -1,12 +1,12 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-class DownloadTab extends StatefulWidget {
+class TvShows extends StatefulWidget {
   @override
   _DownloadTabState createState() => _DownloadTabState();
 }
 
-class _DownloadTabState extends State<DownloadTab> {
+class _DownloadTabState extends State<TvShows> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

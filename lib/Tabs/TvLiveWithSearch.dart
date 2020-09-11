@@ -5,12 +5,12 @@ import 'package:my_flix/pages/TvLiveVideoPage.dart';
 
 
 
-class SearchTab extends StatefulWidget {
+class TvLiveWithSearch extends StatefulWidget {
   @override
   _SearchTabState createState() => _SearchTabState();
 }
 
-class _SearchTabState extends State<SearchTab> {
+class _SearchTabState extends State<TvLiveWithSearch> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

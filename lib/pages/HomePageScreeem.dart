@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import '../Tabs/ComicSoonTab.dart';
-import '../Tabs/DownloadTab.dart';
+import '../Tabs/Movie.dart';
+import '../Tabs/TvShows.dart';
 import '../Tabs/HomeTab.dart';
 import '../Tabs/MoreTab.dart';
 import '../Tabs/TvLiveWithSearch.dart';
@@ -57,9 +57,9 @@ class _HomePageScreemState extends State<HomePageScreem> {
           body: TabBarView(
             children: <Widget>[
               HomeTab(),
-              SearchTab(),
-              ComicSoonTab(),
-              DownloadTab(),
+              TvLiveWithSearch(),
+              Movie(),
+              TvShows(),
               MoreTab(widget.userLoged),
             ],
           ), //ScreenSelector(page: 'HOME'),
