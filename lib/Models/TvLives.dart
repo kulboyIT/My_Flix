@@ -53,7 +53,7 @@ final List<TvLives> TvLive = [
   TvLives(
       imageUrl:
       "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
-      videoUrl: 'https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8',
+      videoUrl: 'https://m-c02-j2apps.s.llnwi.net/.ABPNews.in.m3u8',
       title: " ABP NEWS ",
       year: "2010",
       description:
@@ -66,7 +66,7 @@ final List<TvLives> TvLive = [
   TvLives(
       imageUrl:
       "https://qqcdnpictest.mxplay.com/pic/0306.9XM.in/en/1x1/208x208/test_pic1545220990615.jpg",
-      videoUrl: 'https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8',
+      videoUrl: 'https://m-c01-j2apps.s.llnwi.net/live_9XM.in.m3u8',
       title: "9XM",
       year: "2019",
       description:
@@ -80,7 +80,7 @@ final List<TvLives> TvLive = [
   TvLives(
       imageUrl:
       "https://i.pinimg.com/736x/1e/c0/d7/1ec0d760a66e33dcfe191da38cf9e641.jpg",
-      videoUrl: 'https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8',
+      videoUrl: 'https://m-c01-j2apps.s.llnwi.net/hndia.in.m3u8',
       title: "Music India",
       year: "2012",
       description:
@@ -93,7 +93,7 @@ final List<TvLives> TvLive = [
   TvLives(
       imageUrl:
       "https://i.pinimg.com/736x/1e/c0/d7/1ec0d760a66e33dcfe191da38cf9e641.jpg",
-      videoUrl: 'https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8',
+      videoUrl: 'https://m-c04-j2apps.s.llnwiShowBox.in.m3u8',
       title: "ShowBox",
       year: "2012",
       description:
@@ -106,7 +106,7 @@ final List<TvLives> TvLive = [
   TvLives(
       imageUrl:
       "https://i.pinimg.com/736x/1e/c0/d7/1ec0d760a66e33dcfe191da38cf9e641.jpg",
-      videoUrl: 'https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8',
+      videoUrl: 'https://m-c04-j2apps.s.llnwi.AnjanTV.in.m3u8',
       title: "Anjan Tv",
       year: "2012",
       description:
@@ -119,7 +119,7 @@ final List<TvLives> TvLive = [
   TvLives(
       imageUrl:
       "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
-      videoUrl: 'http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8',
+      videoUrl: 'http://iptv.kitv.live:1935/live/MTV-P/30.m3u8',
       title: "Colors HD",
       year: "2010",
       description:
@@ -132,7 +132,7 @@ final List<TvLives> TvLive = [
   TvLives(
       imageUrl:
       "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
-      videoUrl: 'http://103.214.202.218:8081/live/sony-40/chunks.m3u8',
+      videoUrl: 'http://103.214.202.218:808chunks.m3u8',
       title: "Sony HD",
       year: "2010",
       description:
@@ -145,7 +145,7 @@ final List<TvLives> TvLive = [
   TvLives(
       imageUrl:
       "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
-      videoUrl: 'https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_dvr.m3u8',
+      videoUrl: 'https://m-c066-j2apps.s.llnwi.22.SABHD.in_dvr.m3u8',
       title: "SONY SAB TV HD",
       year: "2010",
       description:
@@ -158,7 +158,7 @@ final List<TvLives> TvLive = [
   TvLives(
       imageUrl:
       "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
-      videoUrl: 'https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_dvr.m3u8',
+      videoUrl: 'https://m-c066-j2ap_dvr.m3u8',
       title: "SETMAX HD",
       year: "2010",
       description:
@@ -171,7 +171,7 @@ final List<TvLives> TvLive = [
   TvLives(
       imageUrl:
       'https://qqcdnpictest.mxplay.com/pic/5366.Pitaara.in/en/1x1/208x208/test_pic1535976851878.JPG',
-      videoUrl: 'https://llvod.mxplay.comhttps://m-c16-j2apps.s.llnwi.net/hls/5366.Pitaara.in.m3u8',
+      videoUrl: 'https://16-j2apps.s.llnwi.net/hls/5366.Pitaara.in.m3u8',
       title: "Pitaara ",
       year: "2010",
       description:
@@ -184,7 +184,7 @@ final List<TvLives> TvLive = [
   TvLives(
       imageUrl:
       "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
-      videoUrl: 'https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8?checkedby:rockettvapk.blogspot.com',
+      videoUrl: 'https://coveryhd.m3u8?checkedby:rockettvapk.blogspot.com',
       title: " DISCOVERY HD",
       year: "2010",
       description:
