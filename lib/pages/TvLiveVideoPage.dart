@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:my_flix/Models/TvLives.dart';
 import 'package:video_player/video_player.dart';
+import 'package:wakelock/wakelock.dart';
 
 
 
@@ -160,9 +161,11 @@ class _TvLiveVideoPageState extends State<TvLiveVideoPage> {
           setState(() {
             // If the video is playing, pause it.
             if (_controller.value.isPlaying) {
+              Wakelock.enable();
               _controller.pause();
             } else {
               // If the video is paused, play it.
+              Wakelock.disable();
               _controller.play();
             }
           });
