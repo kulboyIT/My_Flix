@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:my_flix/Models/TvLives.dart';
 import 'package:my_flix/pages/MoviePageScreem.dart';
+import 'package:my_flix/pages/TvLiveVideoPage.dart';
 
-import '../Models/Catalog.dart';
+
 
 class SearchTab extends StatefulWidget {
   @override
@@ -54,7 +55,7 @@ class _SearchTabState extends State<SearchTab> {
                                   child: Stack(
                                     children: <Widget>[
                                       Image.network(
-                                        TvLive[index - 1].imageUrl,
+                                        TvLive[index-1 ].imageUrl,
                                         width: 130,
                                         fit: BoxFit.cover,
                                       )
@@ -64,7 +65,7 @@ class _SearchTabState extends State<SearchTab> {
                                     Navigator.of(context).push(
                                         MaterialPageRoute(
                                             builder: (context) =>
-                                                MoviePageScreem(index-1)));
+                                                TvLiveVideoPage(index-1)));
                                   },
                                 )
                               ],
