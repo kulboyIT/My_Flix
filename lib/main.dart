@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:my_flix/pages/HomePageScreeem.dart';
 
 import 'pages/SplashPageScreem.dart';
 
@@ -7,7 +8,7 @@ void main(){
 
  runApp(MaterialApp(
   debugShowCheckedModeBanner: false,
-   home: SplashPageScreem()
+   home: HomePageScreem(0)
  ));
 
 }

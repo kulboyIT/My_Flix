@@ -1,3 +1,5 @@
+
+//Note -these links not use for commercial and its just demo purpose .
 class TvLives {
   String imageUrl;
   String videoUrl;
@@ -50,22 +52,9 @@ final List<TvLives> TvLive = [
       dateComicSoon: "06 de out"),
   TvLives(
       imageUrl:
-      "https://uploads.metropoles.com/wp-content/uploads/2020/04/28154256/resgate3.jpg",
-      videoUrl: 'https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8',
-      title: "9XM",
-      year: "2019",
-      description:
-      "Resgate é um filme de suspense de ação americano de 2020, dirigido por Sam Hargrave e roteiro de Joe Russo, baseado nos quadrinhos Ciudad de Ande Parks, Joe Russo, Anthony Russo, Fernando Leon Gonzalez e Eric Skillman.",
-      relevance: "98% relevante",
-      logo:
-      "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8",
-      subtitleComicSoon: "Disponivel em breve",
-      dateComicSoon: "03 de mar"),
-  TvLives(
-      imageUrl:
       "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
-      videoUrl: 'https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_1.m3u8',
-      title: "REPUBLIC BHARAT",
+      videoUrl: 'https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8',
+      title: " ABP NEWS ",
       year: "2010",
       description:
       "Baseado na história em quadrinhos escrita por Robert Kirkman, este drama potente e visceral retrata a vida nos Estados Unidos pós-apocalíptico. Um grupo de sobreviventes, liderado pelo policial Rick Grimes, segue viajando em busca de uma nova moradia segura e distante dos mortos-vivos. A pressão para permanecerem vivos e lutarem pela sobrevivência faz com que muitos do grupo sejam submetidos às mais profundas formas de crueldade humana. Rick acaba descobrindo que o tão assustador desespero pela subsistência pode ser ainda mais fatal do que os próprios mortos-vivos que os rodeiam.",
@@ -76,9 +65,23 @@ final List<TvLives> TvLive = [
       dateComicSoon: "16 de mai"),
   TvLives(
       imageUrl:
+      "https://qqcdnpictest.mxplay.com/pic/0306.9XM.in/en/1x1/208x208/test_pic1545220990615.jpg",
+      videoUrl: 'https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8',
+      title: "9XM",
+      year: "2019",
+      description:
+      "Resgate é um filme de suspense de ação americano de 2020, dirigido por Sam Hargrave e roteiro de Joe Russo, baseado nos quadrinhos Ciudad de Ande Parks, Joe Russo, Anthony Russo, Fernando Leon Gonzalez e Eric Skillman.",
+      relevance: "98% relevante",
+      logo:
+      "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8",
+      subtitleComicSoon: "Disponivel em breve",
+      dateComicSoon: "03 de mar"),
+
+  TvLives(
+      imageUrl:
       "https://i.pinimg.com/736x/1e/c0/d7/1ec0d760a66e33dcfe191da38cf9e641.jpg",
-      videoUrl: "http://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4",
-      title: "Nanatsu no taizai",
+      videoUrl: 'https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8',
+      title: "Music India",
       year: "2012",
       description:
       "Nanatsu no Taizai, é uma adaptação do mangá escrito e ilustrado por Nakaba Suzuki. Começou a ser serializada na revista Weekly Shōnen Magazine da Kodansha em outubro de 2012, tankōbon lançados até agora.",
@@ -87,4 +90,108 @@ final List<TvLives> TvLive = [
       "https://vignette.wikia.nocookie.net/nerddragon/images/2/2e/Nanatsu_no_taizai2.png/revision/latest/scale-to-width-down/340?cb=20190107014958&path-prefix=pt-br",
       subtitleComicSoon: "Temporada 3",
       dateComicSoon: "16 de jun"),
+  TvLives(
+      imageUrl:
+      "https://i.pinimg.com/736x/1e/c0/d7/1ec0d760a66e33dcfe191da38cf9e641.jpg",
+      videoUrl: 'https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8',
+      title: "ShowBox",
+      year: "2012",
+      description:
+      "Nanatsu no Taizai, é uma adaptação do mangá escrito e ilustrado por Nakaba Suzuki. Começou a ser serializada na revista Weekly Shōnen Magazine da Kodansha em outubro de 2012, tankōbon lançados até agora.",
+      relevance: "98% relevante",
+      logo:
+      "https://vignette.wikia.nocookie.net/nerddragon/images/2/2e/Nanatsu_no_taizai2.png/revision/latest/scale-to-width-down/340?cb=20190107014958&path-prefix=pt-br",
+      subtitleComicSoon: "Temporada 3",
+      dateComicSoon: "16 de jun"),
+  TvLives(
+      imageUrl:
+      "https://i.pinimg.com/736x/1e/c0/d7/1ec0d760a66e33dcfe191da38cf9e641.jpg",
+      videoUrl: 'https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8',
+      title: "Anjan Tv",
+      year: "2012",
+      description:
+      "Nanatsu no Taizai, é uma adaptação do mangá escrito e ilustrado por Nakaba Suzuki. Começou a ser serializada na revista Weekly Shōnen Magazine da Kodansha em outubro de 2012, tankōbon lançados até agora.",
+      relevance: "98% relevante",
+      logo:
+      "https://vignette.wikia.nocookie.net/nerddragon/images/2/2e/Nanatsu_no_taizai2.png/revision/latest/scale-to-width-down/340?cb=20190107014958&path-prefix=pt-br",
+      subtitleComicSoon: "Temporada 3",
+      dateComicSoon: "16 de jun"),
+  TvLives(
+      imageUrl:
+      "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
+      videoUrl: 'http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8',
+      title: "Colors HD",
+      year: "2010",
+      description:
+      "Baseado na história em quadrinhos escrita por Robert Kirkman, este drama potente e visceral retrata a vida nos Estados Unidos pós-apocalíptico. Um grupo de sobreviventes, liderado pelo policial Rick Grimes, segue viajando em busca de uma nova moradia segura e distante dos mortos-vivos. A pressão para permanecerem vivos e lutarem pela sobrevivência faz com que muitos do grupo sejam submetidos às mais profundas formas de crueldade humana. Rick acaba descobrindo que o tão assustador desespero pela subsistência pode ser ainda mais fatal do que os próprios mortos-vivos que os rodeiam.",
+      relevance: "98% relevante",
+      logo:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Walking_Dead_2010_logo.svg/1280px-The_Walking_Dead_2010_logo.svg.png",
+      subtitleComicSoon: "Temporada 50",
+      dateComicSoon: "16 de mai"),
+  TvLives(
+      imageUrl:
+      "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
+      videoUrl: 'http://103.214.202.218:8081/live/sony-40/chunks.m3u8',
+      title: "Sony HD",
+      year: "2010",
+      description:
+      "Baseado na história em quadrinhos escrita por Robert Kirkman, este drama potente e visceral retrata a vida nos Estados Unidos pós-apocalíptico. Um grupo de sobreviventes, liderado pelo policial Rick Grimes, segue viajando em busca de uma nova moradia segura e distante dos mortos-vivos. A pressão para permanecerem vivos e lutarem pela sobrevivência faz com que muitos do grupo sejam submetidos às mais profundas formas de crueldade humana. Rick acaba descobrindo que o tão assustador desespero pela subsistência pode ser ainda mais fatal do que os próprios mortos-vivos que os rodeiam.",
+      relevance: "98% relevante",
+      logo:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Walking_Dead_2010_logo.svg/1280px-The_Walking_Dead_2010_logo.svg.png",
+      subtitleComicSoon: "Temporada 50",
+      dateComicSoon: "16 de mai"),
+  TvLives(
+      imageUrl:
+      "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
+      videoUrl: 'https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_dvr.m3u8',
+      title: "SONY SAB TV HD",
+      year: "2010",
+      description:
+      "Baseado na história em quadrinhos escrita por Robert Kirkman, este drama potente e visceral retrata a vida nos Estados Unidos pós-apocalíptico. Um grupo de sobreviventes, liderado pelo policial Rick Grimes, segue viajando em busca de uma nova moradia segura e distante dos mortos-vivos. A pressão para permanecerem vivos e lutarem pela sobrevivência faz com que muitos do grupo sejam submetidos às mais profundas formas de crueldade humana. Rick acaba descobrindo que o tão assustador desespero pela subsistência pode ser ainda mais fatal do que os próprios mortos-vivos que os rodeiam.",
+      relevance: "98% relevante",
+      logo:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Walking_Dead_2010_logo.svg/1280px-The_Walking_Dead_2010_logo.svg.png",
+      subtitleComicSoon: "Temporada 50",
+      dateComicSoon: "16 de mai"),
+  TvLives(
+      imageUrl:
+      "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
+      videoUrl: 'https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_dvr.m3u8',
+      title: "SETMAX HD",
+      year: "2010",
+      description:
+      "Baseado na história em quadrinhos escrita por Robert Kirkman, este drama potente e visceral retrata a vida nos Estados Unidos pós-apocalíptico. Um grupo de sobreviventes, liderado pelo policial Rick Grimes, segue viajando em busca de uma nova moradia segura e distante dos mortos-vivos. A pressão para permanecerem vivos e lutarem pela sobrevivência faz com que muitos do grupo sejam submetidos às mais profundas formas de crueldade humana. Rick acaba descobrindo que o tão assustador desespero pela subsistência pode ser ainda mais fatal do que os próprios mortos-vivos que os rodeiam.",
+      relevance: "98% relevante",
+      logo:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Walking_Dead_2010_logo.svg/1280px-The_Walking_Dead_2010_logo.svg.png",
+      subtitleComicSoon: "Temporada 50",
+      dateComicSoon: "16 de mai"),
+  TvLives(
+      imageUrl:
+      'https://qqcdnpictest.mxplay.com/pic/5366.Pitaara.in/en/1x1/208x208/test_pic1535976851878.JPG',
+      videoUrl: 'https://llvod.mxplay.comhttps://m-c16-j2apps.s.llnwi.net/hls/5366.Pitaara.in.m3u8',
+      title: "Pitaara ",
+      year: "2010",
+      description:
+      "Baseado na história em quadrinhos escrita por Robert Kirkman, este drama potente e visceral retrata a vida nos Estados Unidos pós-apocalíptico. Um grupo de sobreviventes, liderado pelo policial Rick Grimes, segue viajando em busca de uma nova moradia segura e distante dos mortos-vivos. A pressão para permanecerem vivos e lutarem pela sobrevivência faz com que muitos do grupo sejam submetidos às mais profundas formas de crueldade humana. Rick acaba descobrindo que o tão assustador desespero pela subsistência pode ser ainda mais fatal do que os próprios mortos-vivos que os rodeiam.",
+      relevance: "98% relevante",
+      logo:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Walking_Dead_2010_logo.svg/1280px-The_Walking_Dead_2010_logo.svg.png",
+      subtitleComicSoon: "Temporada 50",
+      dateComicSoon: "16 de mai"),
+  TvLives(
+      imageUrl:
+      "https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/116/2018/10/twd-896-d1-big_qgd6.jpg",
+      videoUrl: 'https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8?checkedby:rockettvapk.blogspot.com',
+      title: " DISCOVERY HD",
+      year: "2010",
+      description:
+      "Baseado na história em quadrinhos escrita por Robert Kirkman, este drama potente e visceral retrata a vida nos Estados Unidos pós-apocalíptico. Um grupo de sobreviventes, liderado pelo policial Rick Grimes, segue viajando em busca de uma nova moradia segura e distante dos mortos-vivos. A pressão para permanecerem vivos e lutarem pela sobrevivência faz com que muitos do grupo sejam submetidos às mais profundas formas de crueldade humana. Rick acaba descobrindo que o tão assustador desespero pela subsistência pode ser ainda mais fatal do que os próprios mortos-vivos que os rodeiam.",
+      relevance: "98% relevante",
+      logo:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Walking_Dead_2010_logo.svg/1280px-The_Walking_Dead_2010_logo.svg.png",
+      subtitleComicSoon: "Temporada 50",
+      dateComicSoon: "16 de mai"),
 ];
