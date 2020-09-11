@@ -161,11 +161,11 @@ class _TvLiveVideoPageState extends State<TvLiveVideoPage> {
           setState(() {
             // If the video is playing, pause it.
             if (_controller.value.isPlaying) {
-              Wakelock.enable();
+              Wakelock.disable();
               _controller.pause();
             } else {
               // If the video is paused, play it.
-              Wakelock.disable();
+              Wakelock.enable();
               _controller.play();
             }
           });
