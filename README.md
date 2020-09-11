@@ -1,4 +1,4 @@
-# my_flix
+# MY_flix
 
 A new Flutter application.
 
