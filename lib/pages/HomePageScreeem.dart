@@ -71,19 +71,19 @@ class _HomePageScreemState extends State<HomePageScreem> {
               items: const <BottomNavigationBarItem>[
                 BottomNavigationBarItem(
                   icon: Icon(Icons.home),
-                  title: Text('Home'),
+                  label: 'Home',
                 ),
                 BottomNavigationBarItem(
                   icon: Icon(Icons.search),
-                  title: Text('Find'),
+                  label:'Find',
                 ),
                 BottomNavigationBarItem(
                   icon: Icon(Icons.file_download),
-                  title: Text('Download'),
+                  label: 'Download',
                 ),
                 BottomNavigationBarItem(
                   icon: Icon(Icons.person),
-                  title: Text('My Stuff'),
+                  label: 'My Stuff',
                 ),
               ],
             ),
